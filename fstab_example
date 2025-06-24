@@ -1,0 +1,1 @@
+//192.168.100.4/g/respaldo\040flujos\040N8N /mnt/n8n_backup cifs credentials=/root/.n8n-backup-cred,uid=1000,gid=1000,forceuid,forcegid,iocharset=utf8,file_mode=0770,dir_mode=0770,vers=3.0 0 0
